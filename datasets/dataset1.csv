@@ -1,0 +1,6 @@
+﻿Person,Age,City,Bool,Marks
+Person2,24,Bangalore,No,47
+Person3,19,Delhi,No,89
+Person4,,Mumbai,Yes,93
+Person5,24,Hyderabad,No,85
+Person1,17,Chennai,Yes,98
